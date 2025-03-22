@@ -1,0 +1,12 @@
+
+streamlit
+moviepy
+gTTS
+opencv-python
+numpy
+requests
+pandas
+transformers
+sentencepiece
+torch
+Pillow
